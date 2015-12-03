@@ -16,7 +16,7 @@ if __name__ == "__main__":
 	Password = driver.find_element_by_name("j_password")
 	
 	Username.send_keys("ECS-ID")	#自分のECS-IDをここに入力
-	Password.send_keys("")	#自分のパスワードをここに入力
+	Password.send_keys("PWPW")	#自分のパスワードをここに入力
 	Password.send_keys(Keys.ENTER)
 	
 
