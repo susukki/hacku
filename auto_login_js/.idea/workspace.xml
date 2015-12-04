@@ -25,8 +25,8 @@
       <file leaf-file-name="testselenium.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testselenium.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40828404">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.088757396">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -540,12 +540,12 @@
       <created>1449209346819</created>
       <option name="number" value="Default" />
       <updated>1449209346819</updated>
-      <workItem from="1449209348614" duration="7463000" />
+      <workItem from="1449209348614" duration="7960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7463000" />
+    <option name="totallyTimeSpent" value="7960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-540" width="2560" height="1440" extended-state="0" />
@@ -586,8 +586,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testselenium.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40828404">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.088757396">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
